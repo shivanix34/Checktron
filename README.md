@@ -15,6 +15,8 @@ performance in strategic decision-making, showcasing the potential of computatio
 games. ”Draughts Dynamics” contributes to the discourse on AI’s
 capabilities in adversarial environments, demonstrating its role
 in strategic gaming and computational intelligence research.
+![image](https://user-images.githubusercontent.com/126619938/235613968-aebddeaa-e644-40ae-bd83-d775ac3a931e.png)
+
 ## Evaluation
 The Minimax Algorithm with α-β Pruning:
 
