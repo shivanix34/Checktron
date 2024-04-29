@@ -21,6 +21,11 @@ in strategic gaming and computational intelligence research.
 ![image](https://user-images.githubusercontent.com/126619938/235613968-aebddeaa-e644-40ae-bd83-d775ac3a931e.png)
 
 ## Evaluation
+
+![image](activity.drawio.png)
+
+
+
 The Minimax Algorithm with α-β Pruning:
 
 
