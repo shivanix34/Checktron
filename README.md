@@ -1,8 +1,6 @@
 <div align="center">
-  <h1>Checktron</h1>
-</div>
-
-<p align="justify">
+  <h1 style="font-size: 24px; font-weight: bold;">Checktron</h1>
+</div><p align="justify">
 
 
 ## Overview
