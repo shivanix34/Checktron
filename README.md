@@ -4,7 +4,6 @@
 
 <p align="justify">
 
-Hello Guys, This is Checkers/Draughts AI agent that plays against humans!!
 
 ## Overview
 
@@ -31,5 +30,6 @@ The Minimax Algorithm with α-β Pruning:
 
 - The efficiency of α-β pruning lies in its ability to eliminate portions of the game tree that cannot influence the final decision, thus significantly reducing the computational overhead.
 </p>
-
-![activity drawio](https://github.com/shivanix34/Checktron/assets/137218848/33f7f1c5-ce4d-48b8-aa78-6b968cabe8d3)
+<div style="display: flex; justify-content: center;">
+  <img src="https://github.com/shivanix34/Checktron/assets/137218848/33f7f1c5-ce4d-48b8-aa78-6b968cabe8d3" alt="Activity Drawio">
+</div>
